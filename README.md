@@ -1,5 +1,5 @@
 - Hi, I’m @olivershetler
-- I'm a Data Scientist and Applied Mathematician
+- I'm a Data Scientist and Knowledge Engineer
 - In addition to the above, I have a passion for the brain and cognitive sciences, and knowledge engineering
 - Check out my [LinkedIn](https://www.linkedin.com/in/olivershetler/) profile for more about me.
 - You can find data sets I've engineered at my [Kaggle](https://www.kaggle.com/olivershetler) profile.
